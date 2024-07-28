@@ -1,0 +1,2 @@
+merge sort is dividing the array in to two parts untill only single element is left and intiution is single element is always sorted .
+pass that array to merge function from start to end index and merge two sorted array .
