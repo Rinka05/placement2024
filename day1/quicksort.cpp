@@ -14,7 +14,7 @@ SC = O(1)
             count++;
         }
       }
-    //    nums[count+s] = pivot;
+    //nums[count+s] = pivot;
       int ind = count+s;
        swap(nums[count+s], nums[s]);
         int st = s , end = e ;
